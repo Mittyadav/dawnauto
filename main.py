@@ -282,7 +282,7 @@ class DawnValidatorBot:
         print(f"""
 {Colors.INFO}{Style.BRIGHT}╔══════════════════════════════════════════════╗
 ║            Dawn Validator AutoBot            ║
-║     Github: https://github.com/IM-Hanzou     ║
+║     Github: https://github.com/Mittyadav     ║
 ║      Welcome and do with your own risk!      ║
 ╚══════════════════════════════════════════════╝{Colors.RESET}
 """)
