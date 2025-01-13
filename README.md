@@ -7,14 +7,7 @@ Automation farming Script for Dawn Validator using proxies. This bot support mul
 4. VPS or RDP (OPTIONAL)
 5. Python version 3.10 or Latest
 ### Buy Proxies
-- Free Proxies Static Residental: 
-1. [WebShare](https://www.webshare.io/?referral_code=p7k7whpdu2jg)
-2. [ProxyScrape](https://proxyscrape.com/?ref=odk1mmj)
-3. [MonoSans](https://github.com/monosans/proxy-list)
-- Paid Premium Static Residental:
-1. [922proxy](https://www.922proxy.com/register?inviter_code=d03d4fed)
-2. [Proxy-Cheap](https://app.proxy-cheap.com/r/JysUiH)
-3. [Infatica](https://dashboard.infatica.io/aff.php?aff=544)
+
 ## Getting Token
 - Open ``chrome-extension://fpdkjdnhkakefebpekbdhillbhonfjjp/dashboard.html`` in your browser and login
 - Press F12 or CTRL+SHIFT+I and Select Network
